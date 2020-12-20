@@ -1,0 +1,5 @@
+.admintitle
+{
+	background-color:#530602;
+	color:#fff;
+}
